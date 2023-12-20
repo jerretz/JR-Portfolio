@@ -19,7 +19,7 @@ const Home = () => {
             <button onClick={handleClick}>Click me</button>
             <button onClick={() => {
                 handleClickAgain('Click Again');
-            }}>Click again</button>
+            }}>Click again, please</button>
         </div>
     );
 }
